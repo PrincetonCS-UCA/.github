@@ -1,8 +1,8 @@
-## Princeton CS Undergraduate Course Assistants
+## Princeton COS Undergraduate Course Assistants
 
-The Princeton CS Department relies on talented undergrads to accomplish some of the most important tasks of the teaching missions, such as grading, holding office hours, assisting in class, or even managing other UCAs
+The Princeton COS Department relies on talented undergrads to accomplish some of the most important tasks of the teaching missions, such as grading, holding office hours, assisting in class, or even managing other UCAs
 
-This GitHub Organization hosts the websites, tools, and other artefacts related with the Princeton CS UCA program.
+This GitHub Organization hosts the websites, tools, and other artefacts related with the Princeton COS UCA program.
 
 Please visit our related websites:
 - General Undergraduate Course Assistant (UCA) Program Website: https://ugradjobs.cs.princeton.edu
